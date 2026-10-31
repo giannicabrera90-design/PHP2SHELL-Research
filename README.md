@@ -1,6 +1,6 @@
 PHP2SHELL Research - Análisis y Detección Responsable
 
-Academic research & exposure assessment for CVE-2026-109618 / CVE-2026-109619 ("PHP2Shell").
+Academic research & exposure assessment for CVE-2026-109618 & CVE-2026-109619 ("PHP2Shell").
 
 ⚠️ Este repositorio es solo detección defensiva. No contiene payloads (cargas útiles) de RCE, no hace heap spray, no hace session poisoning ni LFI (Local File Inclusion).
 El PoC weaponizado completo (trigger OOM + leak + zval spray) se mantiene en laboratorio privado por responsabilidad ética y legal, dado que CISA lo lista como activamente explotado desde el 26 de octubre de 2026.
